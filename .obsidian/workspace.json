@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "43e78f31fc5aaece",
+    "type": "split",
+    "children": [
+      {
+        "id": "a81c0dec75975a7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1f22b9c0b8129f5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5918f41551da7a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d58fa1c379b89ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d248b41a5cf8b61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "87070a73c4d6c643",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eafd4ba66fef2d3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1ae7dcbbab55835f",
+    "type": "split",
+    "children": [
+      {
+        "id": "45efa5902b3ddebd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c88c21873eb1bb04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab245d7d24a3274a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f436d409adc559b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd7ee2fe45d70516",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d1f22b9c0b8129f5",
+  "lastOpenFiles": [
+    "1 - Project/Docker/Introduction to Docker.md",
+    "Assets/Screenshot 2024-09-18 at 2.26.06 PM.png",
+    "Assets/Pasted image 20240918120136.png",
+    "Assets/Screenshot 2024-09-17 at 2.27.01 PM.png",
+    "Assets/Screenshot 2024-09-17 at 2.23.39 PM.png",
+    "Assets/Screenshot 2024-09-17 at 2.12.01 PM.png",
+    "Assets/Screenshot 2024-09-17 at 12.06.03 PM.png",
+    "Assets/Screenshot 2024-09-17 at 11.30.54 AM.png",
+    "Assets/Screenshot 2024-09-17 at 11.10.29 AM.png",
+    "Assets/Screenshot 2024-09-17 at 11.09.09 AM.png",
+    "Assets/Screenshot 2024-09-17 at 11.06.58 AM 1.png",
+    "Assets/11 Sep, 18.29.aac",
+    "1 - Project/Database/ACID.md",
+    "1 - Project/Docker",
+    "Payloads.md",
+    "1 - Project/Database",
+    "Untitled",
+    "2 - Area/Linux/General Bash Commands.md",
+    "2 - Area/Linux/Linux Scripting.md",
+    "2 - Area/Linux/Bash Scripting.md",
+    "Crypto Resources.md",
+    "Content Creation Resource.md",
+    "2 - Area/Linux/User and Permissions.md",
+    "2 - Area/Cloud Computing/Cloud.md",
+    "3 - Resources/Markdown.md",
+    "3 - Resources/SSH.md",
+    "2 - Area/Cryptography/Asymmetric Cryptography.md",
+    "2 - Area/Cryptography/Symmetric Key Cryptography.md",
+    "2 - Area/Cryptography/Hashing.md",
+    "2 - Area/Cryptography/Attacks.md",
+    "2 - Area/Cryptography/Crypto.md",
+    "2 - Area/Cryptography",
+    "2 - Area/OOP/OOP.md",
+    "Morning Routine.md",
+    "2 - Area/OOP",
+    "2 - Area/Health",
+    "Frontend.md",
+    "2 - Area/Cloud Computing",
+    "Linux Philosophy.md",
+    "OS Resources.md",
+    "2 - Area/OS",
+    "2 - Area/Git/Version Control.md",
+    "2 - Area/Linux",
+    "Important Links.md",
+    "Untitled.canvas",
+    "2024-07-13.md"
+  ]
+}
