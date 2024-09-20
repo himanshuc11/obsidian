@@ -80,7 +80,7 @@ Docker Registry is a place to host images. There are many different docker regis
 To build containers we need images. These images can be
 
 1. pre built images, pulled from the docker repositories.
-2. custom images, (base image + source code along with all the dependencies)
+2. custom images, built locally.
 
 **Pre built images**
 To create containers out of prebuilt images, we just need to run the official image name.
@@ -93,7 +93,6 @@ docker pull <image-name> // Pull the image from remote to local
 docker images // Shows the list of images you have downloaded locally
 docker rmi <image-id> --force // Delete the image from your local machine
 docker build -t <custom-image-name> /path/to/src
-docker build -t <image-tag> /path/to/src
 ```
 
 Container
