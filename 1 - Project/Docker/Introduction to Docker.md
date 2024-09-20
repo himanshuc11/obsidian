@@ -33,6 +33,7 @@ Why containerize?
 - Run applications in isolated environments (Sandbox)
 - Portability
 - Ease of deployment
+- Developer environment clean (node12, node14, node14 nvm etc)
 
 Each container is made from these 3 parts
 1. Manifest File: This is the file to describe the image ie how to build the image from scratch.
@@ -79,6 +80,7 @@ Note: The remote is already set up no need to set remote like github
 docker pull <image-name> // Pull the image from remote to local
 docker images // Shows the list of images you have downloaded locally
 docker rmi <image-id> --force // Delete the image from your local machine
+docker build -t <custom-image-name> /path/to/src
 ```
 
 
