@@ -11,8 +11,12 @@
             "id": "d1f22b9c0b8129f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 - Project/Docker/Introduction to Docker.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Project/Docker/Introduction to Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Project/Docker/Introduction to Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 - Project/Docker/Introduction to Docker.md"
+              }
             }
           }
         ]
@@ -140,17 +148,18 @@
   },
   "active": "d1f22b9c0b8129f5",
   "lastOpenFiles": [
-    "1 - Project/Docker/Introduction to Docker.md",
-    "Assets/Screenshot 2024-09-18 at 2.26.06 PM.png",
-    "Assets/Pasted image 20240918120136.png",
-    "Assets/Screenshot 2024-09-17 at 2.27.01 PM.png",
-    "Assets/Screenshot 2024-09-17 at 2.23.39 PM.png",
-    "Assets/Screenshot 2024-09-17 at 2.12.01 PM.png",
+    "Assets/Screenshot 2024-09-17 at 12.46.03 AM.png",
+    "Assets/Screenshot 2024-09-17 at 12.46.03 AM 1.png",
+    "Assets/Screenshot 2024-09-17 at 12.45.51 AM.png",
+    "Assets/Screenshot 2024-09-17 at 12.42.06 AM.png",
     "Assets/Screenshot 2024-09-17 at 12.06.03 PM.png",
     "Assets/Screenshot 2024-09-17 at 11.30.54 AM.png",
+    "Assets/Screenshot 2024-09-17 at 12.42.17 AM.png",
     "Assets/Screenshot 2024-09-17 at 11.10.29 AM.png",
     "Assets/Screenshot 2024-09-17 at 11.09.09 AM.png",
     "Assets/Screenshot 2024-09-17 at 11.06.58 AM 1.png",
+    "Assets/Screenshot 2024-09-17 at 11.06.58 AM.png",
+    "1 - Project/Docker/Introduction to Docker.md",
     "Assets/11 Sep, 18.29.aac",
     "1 - Project/Database/ACID.md",
     "1 - Project/Docker",
